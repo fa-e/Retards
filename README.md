@@ -1,5 +1,6 @@
 # Retards
 Just a list of retards I come across on the internet, feel free to open a PR with screenshots and message logs in order to contribute.
+Find me on Discord @ [crosscast](https://discord.com/users/1250231194524844155) 🩸
 
 ## Format to follow
 ```
